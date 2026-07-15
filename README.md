@@ -12,7 +12,7 @@
 <a href="https://twitter.com/meet_nalwaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_nalwaya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meet-nalwaya123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-nalwaya123" height="30" width="40" /></a>
 <a href="https://instagram.com/i.meett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.meett" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meetnalwaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetnalwaya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meetnalwaya" height="30" width="40" /></a>
 <a href="https://discord.gg/2DtMJCTZ2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2DtMJCTZ2x" height="30" width="40" /></a>
 </p>
 
